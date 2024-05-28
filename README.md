@@ -2,10 +2,10 @@
 
 A quick-start project that contains code to create and configure the Syncfusion React Scheduler component. This project also includes a code snippet for how to enable virtual scrolling in Scheduler.   
 
-Refer to the following documentation to learn about the React In-place Editor component: 
+Refer to the following documentation to learn about the React Scheduler component: 
 https://ej2.syncfusion.com/react/documentation/schedule/getting-started   
 
-Check out this online example of the React In-place Editor component:
+Check out this online example of the React Scheduler component:
 https://ej2.syncfusion.com/react/demos/#/material3/schedule/overview
 
 ## Project prerequisites
